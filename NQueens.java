@@ -18,7 +18,6 @@ public class NQueens {
 
 	public static int n;
 	public static int count;
-	//public static int[][] grid;
 	public static int[] pair = new int[2];
 	public static ISolver solver;
 	public static PrintWriter writer;
