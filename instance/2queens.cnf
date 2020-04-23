@@ -1,0 +1,16 @@
+c ------------------------ Projet Castor l2 info ------------------------
+c Pierre BRUYERE
+c Vinicius MATTEI
+c Ismaila BALDE
+c ------------------------ Projet Castor l2 info ------------------------
+p cnf 2 10
+1 2 0
+-1 -2 0
+3 4 0
+-3 -4 0
+1 3 0
+-1 -3 0
+2 4 0
+-2 -4 0
+-2 -3 0
+-1 -4 0

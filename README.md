@@ -46,7 +46,7 @@ etc ...
 
 ## Contributing
  * Vinicius MATTEI
- * Ismaila BALDE 
+ * Ismaila BALDE
  * Pierre BRUYERE
  
 
