@@ -43,6 +43,8 @@ p cnf 4 84
 etc ...
 ...
 ```
+pour resoudre ce problem cet outils  utilise [sat4j](http://sat4j.org) une insp$
+Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
 
 ## Soutenance
  * Vinicius MATTEI --> historique et traduction du probleme
@@ -50,8 +52,6 @@ etc ...
  * Ismaila BALDE ---> Generalisation et code Source du Projet
  
 
-pour resoudre ce problem cet outils  utilise [sat4j](http://sat4j.org) une inspiration java du solver minisat.
-Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
 ## Lire le Rapport 
 Acceder au rapport sur [pabiosoft.com/logique](http://pabiosoft.com/myRapport.php)
 
