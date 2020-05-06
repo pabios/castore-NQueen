@@ -55,6 +55,11 @@ Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
 ## Lire le Rapport 
  [pabiosoft.com/logique](http://pabiosoft.com/myRapport.php)
 
+## Soutenance
+ * Vinicius MATTEI --> historique et traduction du probleme
+ * Pierre BRUYERE  --> Modelisation + exemple (n =4) 
+ * Ismaila BALDE ---> Generalisation et code Source du Projet
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
