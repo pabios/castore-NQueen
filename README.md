@@ -52,8 +52,9 @@ etc ...
 
 pour resoudre ce problem cet outils  utilise [sat4j](http://sat4j.org) une inspiration java du solver minisat.
 Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
-## FOLLOW
-Ismaila a [pabiosoft.com](http://pabiosoft.com)
+## Lire le Rapport 
+ [pabiosoft.com/logique](http://pabiosoft.com/myRapport.php)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
