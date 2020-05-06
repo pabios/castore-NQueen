@@ -43,7 +43,8 @@ p cnf 4 84
 etc ...
 ...
 ```
-pour resoudre ce problem cet outils  utilise [sat4j](http://sat4j.org) une insp$
+Pour resoudre ce probleme cet outils  utilise [sat4j](http://sat4j.org) une
+inspiration java du Solver minisat.
 Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
 
 ## Soutenance
