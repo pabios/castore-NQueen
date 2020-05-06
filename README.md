@@ -44,21 +44,16 @@ etc ...
 ...
 ```
 
-## Contributing
- * Vinicius MATTEI
- * Ismaila BALDE
- * Pierre BRUYERE
+## Soutenance
+ * Vinicius MATTEI --> historique et traduction du probleme
+ * Pierre BRUYERE  --> Modelisation + exemple (n =4)
+ * Ismaila BALDE ---> Generalisation et code Source du Projet
  
 
 pour resoudre ce problem cet outils  utilise [sat4j](http://sat4j.org) une inspiration java du solver minisat.
 Donc pas besoin d'instaler un SOLVER pour utiliser cet outils
 ## Lire le Rapport 
- [pabiosoft.com/logique](http://pabiosoft.com/myRapport.php)
-
-## Soutenance
- * Vinicius MATTEI --> historique et traduction du probleme
- * Pierre BRUYERE  --> Modelisation + exemple (n =4) 
- * Ismaila BALDE ---> Generalisation et code Source du Projet
+Acceder au rapport sur [pabiosoft.com/logique](http://pabiosoft.com/myRapport.php)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
